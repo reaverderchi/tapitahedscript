@@ -13,7 +13,7 @@ Integreerib täpitähed US layoutiga.
 ö - Ctrl + ;
 Ö - Ctrl + Shift + ;
 
-ü - Ctrl + [
-Ü - Ctrl + Shift + [
+ü - Ctrl + '
+Ü - Ctrl + Shift + '
 
 ```
