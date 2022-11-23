@@ -18,7 +18,7 @@ Integreerib täpitähed US layoutiga.
 
 ```
 
-Laadige alla AutoHotKey: [autohotkey.com](autohotkey.com)
+Laadige alla AutoHotKey: [autohotkey.com](https://www.autohotkey.com/)
 
 Tehke scriptist shortcut
 
