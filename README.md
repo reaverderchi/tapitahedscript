@@ -1,4 +1,4 @@
-# tapitahedscript
+# tapitahedscript AutoHotkey-ga
 
 Integreerib täpitähed US layoutiga.
 
