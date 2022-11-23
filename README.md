@@ -17,3 +17,9 @@ Integreerib täpitähed US layoutiga.
 Ü - Ctrl + Shift + '
 
 ```
+
+Tehke scriptist shortcut
+
+Win + R: shell:startup
+
+Viige scripti shortcut Startup kausta
