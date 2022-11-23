@@ -18,6 +18,8 @@ Integreerib täpitähed US layoutiga.
 
 ```
 
+Laadige alla AutoHotKey: autohotkey.com
+
 Tehke scriptist shortcut
 
 Win + R: shell:startup
